@@ -27,4 +27,3 @@ class BasePage(Browser):
         actual_error_message_text = error_message_web_element.text
 #se verifica daca mesajul asteptat este integrat in mesajul primit
         assert expected_error_message in actual_error_message_text, f"Error, the actual message does not contain expected. Expected: {expected_error_message}, actual: {actual_error_message_text}"
-
