@@ -1,0 +1,1 @@
+#rulare test: behave -f behave_html_formatter:HTMLFormatter -o behave-report.html
