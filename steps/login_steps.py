@@ -3,7 +3,7 @@
 # cu ajutorul lui given, when, and, then
 from behave import *
 
-#am definit pasii scenariilor create in login.feature, folosind decoratori
+#am definit pasii scenariilor create in 1.login.feature, folosind decoratori
 
 # pasul definit in Background, utilizat in toate 3 scenariile
 # am speficicat ca in acest pas sa se navigheze pe pagina de login a Netflix
